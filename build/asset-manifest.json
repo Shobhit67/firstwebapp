@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FirstWebApp/static/css/main.c67ff4df.chunk.css",
+    "main.js": "/FirstWebApp/static/js/main.89efdf48.chunk.js",
+    "main.js.map": "/FirstWebApp/static/js/main.89efdf48.chunk.js.map",
+    "runtime-main.js": "/FirstWebApp/static/js/runtime-main.d19bf4e7.js",
+    "runtime-main.js.map": "/FirstWebApp/static/js/runtime-main.d19bf4e7.js.map",
+    "static/css/2.818011ed.chunk.css": "/FirstWebApp/static/css/2.818011ed.chunk.css",
+    "static/js/2.6d1b9e22.chunk.js": "/FirstWebApp/static/js/2.6d1b9e22.chunk.js",
+    "static/js/2.6d1b9e22.chunk.js.map": "/FirstWebApp/static/js/2.6d1b9e22.chunk.js.map",
+    "index.html": "/FirstWebApp/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/FirstWebApp/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c67ff4df.chunk.css.map": "/FirstWebApp/static/css/main.c67ff4df.chunk.css.map",
+    "static/js/2.6d1b9e22.chunk.js.LICENSE.txt": "/FirstWebApp/static/js/2.6d1b9e22.chunk.js.LICENSE.txt",
+    "static/media/Money.db858dc7.png": "/FirstWebApp/static/media/Money.db858dc7.png",
+    "static/media/cartoon.67205887.png": "/FirstWebApp/static/media/cartoon.67205887.png",
+    "static/media/goku2.19a28312.png": "/FirstWebApp/static/media/goku2.19a28312.png",
+    "static/media/got.d2792e8f.png": "/FirstWebApp/static/media/got.d2792e8f.png",
+    "static/media/musclecar.c8be6a31.png": "/FirstWebApp/static/media/musclecar.c8be6a31.png",
+    "static/media/pubg1.27b38639.png": "/FirstWebApp/static/media/pubg1.27b38639.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d19bf4e7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.6d1b9e22.chunk.js",
+    "static/css/main.c67ff4df.chunk.css",
+    "static/js/main.89efdf48.chunk.js"
+  ]
+}
